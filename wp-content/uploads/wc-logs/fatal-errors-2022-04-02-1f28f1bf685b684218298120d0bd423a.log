@@ -1,0 +1,24 @@
+2022-04-02T06:39:48+00:00 CRITICAL Uncaught Error: Call to undefined function dd() in D:\HOANG\xampp\htdocs\webbanhang\wp-content\themes\webbanhang\footer.php:75
+Stack trace:
+#0 D:\HOANG\xampp\htdocs\webbanhang\wp-includes\template.php(770): require_once()
+#1 D:\HOANG\xampp\htdocs\webbanhang\wp-includes\template.php(716): load_template('D:\\HOANG\\xampp\\...', true, Array)
+#2 D:\HOANG\xampp\htdocs\webbanhang\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 D:\HOANG\xampp\htdocs\webbanhang\wp-content\themes\webbanhang\index.php(293): get_footer()
+#4 D:\HOANG\xampp\htdocs\webbanhang\wp-includes\template-loader.php(106): include('D:\\HOANG\\xampp\\...')
+#5 D:\HOANG\xampp\htdocs\webbanhang\wp-blog-header.php(19): require_once('D:\\HOANG\\xampp\\...')
+#6 D:\HOANG\xampp\htdocs\webbanhang\index.php(17): require('D:\\HOANG\\xampp\\...')
+#7 {main}
+  thrown in D:\HOANG\xampp\htdocs\webbanhang\wp-content\themes\webbanhang\footer.php on line 75
+
+2022-04-02T06:40:02+00:00 CRITICAL Uncaught Error: Call to undefined function dd() in D:\HOANG\xampp\htdocs\webbanhang\wp-content\themes\webbanhang\footer.php:75
+Stack trace:
+#0 D:\HOANG\xampp\htdocs\webbanhang\wp-includes\template.php(770): require_once()
+#1 D:\HOANG\xampp\htdocs\webbanhang\wp-includes\template.php(716): load_template('D:\\HOANG\\xampp\\...', true, Array)
+#2 D:\HOANG\xampp\htdocs\webbanhang\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 D:\HOANG\xampp\htdocs\webbanhang\wp-content\themes\webbanhang\index.php(293): get_footer()
+#4 D:\HOANG\xampp\htdocs\webbanhang\wp-includes\template-loader.php(106): include('D:\\HOANG\\xampp\\...')
+#5 D:\HOANG\xampp\htdocs\webbanhang\wp-blog-header.php(19): require_once('D:\\HOANG\\xampp\\...')
+#6 D:\HOANG\xampp\htdocs\webbanhang\index.php(17): require('D:\\HOANG\\xampp\\...')
+#7 {main}
+  thrown in D:\HOANG\xampp\htdocs\webbanhang\wp-content\themes\webbanhang\footer.php on line 75
+

@@ -1,0 +1,26 @@
+2022-03-27T18:27:24+00:00 CRITICAL Uncaught Error: Call to undefined function xdebug_debug_zval() in D:\HOANG\xampp\htdocs\webbanhang\wp-content\themes\webbanhang\functions.php:81
+Stack trace:
+#0 D:\HOANG\xampp\htdocs\webbanhang\wp-includes\class-wp-hook.php(307): hk_setup_theme('')
+#1 D:\HOANG\xampp\htdocs\webbanhang\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 D:\HOANG\xampp\htdocs\webbanhang\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#3 D:\HOANG\xampp\htdocs\webbanhang\wp-settings.php(587): do_action('init')
+#4 D:\HOANG\xampp\htdocs\webbanhang\wp-config.php(98): require_once('D:\\HOANG\\xampp\\...')
+#5 D:\HOANG\xampp\htdocs\webbanhang\wp-load.php(50): require_once('D:\\HOANG\\xampp\\...')
+#6 D:\HOANG\xampp\htdocs\webbanhang\wp-blog-header.php(13): require_once('D:\\HOANG\\xampp\\...')
+#7 D:\HOANG\xampp\htdocs\webbanhang\index.php(17): require('D:\\HOANG\\xampp\\...')
+#8 {main}
+  thrown in D:\HOANG\xampp\htdocs\webbanhang\wp-content\themes\webbanhang\functions.php on line 81
+
+2022-03-27T18:27:24+00:00 CRITICAL Uncaught Error: Call to undefined function xdebug_debug_zval() in D:\HOANG\xampp\htdocs\webbanhang\wp-content\themes\webbanhang\functions.php:81
+Stack trace:
+#0 D:\HOANG\xampp\htdocs\webbanhang\wp-includes\class-wp-hook.php(307): hk_setup_theme('')
+#1 D:\HOANG\xampp\htdocs\webbanhang\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#2 D:\HOANG\xampp\htdocs\webbanhang\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#3 D:\HOANG\xampp\htdocs\webbanhang\wp-settings.php(587): do_action('init')
+#4 D:\HOANG\xampp\htdocs\webbanhang\wp-config.php(98): require_once('D:\\HOANG\\xampp\\...')
+#5 D:\HOANG\xampp\htdocs\webbanhang\wp-load.php(50): require_once('D:\\HOANG\\xampp\\...')
+#6 D:\HOANG\xampp\htdocs\webbanhang\wp-blog-header.php(13): require_once('D:\\HOANG\\xampp\\...')
+#7 D:\HOANG\xampp\htdocs\webbanhang\index.php(17): require('D:\\HOANG\\xampp\\...')
+#8 {main}
+  thrown in D:\HOANG\xampp\htdocs\webbanhang\wp-content\themes\webbanhang\functions.php on line 81
+
